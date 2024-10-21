@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oseryogen.github.io/oseryogen.txt.gz
+Sitemap: https://oseryogen.github.io/app/oseryogen.txt.gz
+Sitemap: https://oseryogen.github.io/assets/oseryogen.txt.gz
+Sitemap: https://oseryogen.github.io/css/oseryogen.txt.gz
+Sitemap: https://oseryogen.github.io/includes/oseryogen.txt.gz
+Sitemap: https://oseryogen.github.io/item/oseryogen.txt.gz
+Sitemap: https://oseryogen.github.io/src/oseryogen.txt.gz
